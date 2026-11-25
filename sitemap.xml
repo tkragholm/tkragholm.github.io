@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="https://tkragholm.github.io/sitemap_style.xsl" type="text/xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>https://tkragholm.github.io/</loc>
+    </url>
+    <url>
+        <loc>https://tkragholm.github.io/about/</loc>
+    </url>
+    <url>
+        <loc>https://tkragholm.github.io/archive/</loc>
+    </url>
+    <url>
+        <loc>https://tkragholm.github.io/guides/</loc>
+    </url>
+    <url>
+        <loc>https://tkragholm.github.io/projects/</loc>
+    </url>
+    <url>
+        <loc>https://tkragholm.github.io/projects/foundations/</loc>
+    </url>
+    <url>
+        <loc>https://tkragholm.github.io/projects/glm/</loc>
+    </url>
+    <url>
+        <loc>https://tkragholm.github.io/projects/inference/</loc>
+    </url>
+    <url>
+        <loc>https://tkragholm.github.io/projects/matching/</loc>
+    </url>
+    <url>
+        <loc>https://tkragholm.github.io/projects/register/</loc>
+    </url>
+    <url>
+        <loc>https://tkragholm.github.io/projects/sequences/</loc>
+    </url>
+    <url>
+        <loc>https://tkragholm.github.io/projects/survival/</loc>
+    </url>
+    <url>
+        <loc>https://tkragholm.github.io/tags/</loc>
+    </url>
+</urlset>
